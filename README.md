@@ -1,4 +1,5 @@
 ![ArangoDB-Logo](https://docs.arangodb.com/assets/arangodb_logo_2016_inverted.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsurajpatel11%2Farangodb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsurajpatel11%2Farangodb?ref=badge_shield)
 
 ArangoDB
 ========
@@ -117,3 +118,7 @@ StackOverflow is great for questions about AQL, usage scenarios etc.
 To chat with the community and the developers we offer a Slack chat:
 
 [https://slack.arangodb.com/](https://slack.arangodb.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsurajpatel11%2Farangodb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsurajpatel11%2Farangodb?ref=badge_large)
